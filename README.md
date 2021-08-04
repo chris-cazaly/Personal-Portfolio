@@ -2,6 +2,8 @@
 Chris Cazaly - Online Personal Portfolio
 
 -- <em>Currently a work-in-progress project</em> --
+<br>
+--> <a href="https://chris-cazaly.github.io/Personal-Portfolio/">View Here</a> <---
 
 Project Intention:
 
